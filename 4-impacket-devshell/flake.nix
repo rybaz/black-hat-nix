@@ -11,7 +11,7 @@
   in
   {
     devShells."aarch64-darwin".default = pkgs.mkShell {
-      packages = [ 
+      packages = with pkgs; [ 
         # python
         pkgs.python312
         # python modules
@@ -27,7 +27,7 @@
         pkgs.python312Packages.ldapdomaindump
         pkgs.python312Packages.flask
         # pkgs.python312Packages.pyreadline3
-      }
-	  ];
+	    ];
+    };
   };
 }
