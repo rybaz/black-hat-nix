@@ -3,13 +3,13 @@
 pkgs.mkShell {
 
   packages = [ 
-    pkgs.python312
+    pkgs.python313
 	];
 
   shellHook = ''
-  	printf "===============================================================\n"
-   	printf "This is a devshell for Python 3.12.\n"
-   	printf "You can now run Python 3!\n"
+  	printf "\n===============================================================\n"
+   	printf "This is a devshell for Python 3.13.\n"
+   	printf "You can now run `python3`!\n"
    	printf "===============================================================\n"
 	'';
 }
