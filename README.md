@@ -1,3 +1,4 @@
+![logo](./src/logo-lol.png)
 # Black Hat Nix
 This is the companion repository for my talk, "Solving Dumb Hacker Problems with
 Nix".
