@@ -2,6 +2,7 @@
 
 pkgs.mkShell {
 
+  # delcaration of what Python modules we need to run Impacket
   packages = [ 
     # python
     pkgs.python312
@@ -24,11 +25,11 @@ pkgs.mkShell {
    	printf "===================================================================\n"
     printf "This is a devshell for Impacket using Python 3.12 w/ dependendies: \n"
     printf " - charset_normalizer\n"
-    printf " - flask"
-    printf " - ldap3"
-    printf " - ldapdomaindump"
-    printf " - pyOpenSSL"
-    printf " - pyasn1"
+    printf " - flask\n"
+    printf " - ldap3\n"
+    printf " - ldapdomaindump\n"
+    printf " - pyOpenSSL\n"
+    printf " - pyasn1\n"
     printf " - pyasn1_modules\n"
     printf " - pycryptodomex\n"
     printf " - pyreadline3;sys_platform == 'win32'\n"
