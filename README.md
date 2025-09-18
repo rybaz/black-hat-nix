@@ -12,8 +12,6 @@ reference for how to begin.
 - 0.2: A Simple Python Devshell
 - 0.3: Devshells feat. Impacket
 - 0.4: Portable Hacking Shells
-### WIP
-- 0.5: Portable Hacking Shells w/ Versioning
 
 ## Prerequisite: Install Nix
 Curl into `/bin/sh` like all good security people do ([ask Determinate, not me](https://determinate.systems/nix-installer/)):
