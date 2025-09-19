@@ -20,7 +20,7 @@
       mitmproxy
       nmap
 
-      # disvovery
+      # discovery
       dnsx
       httpx
       ipinfo
