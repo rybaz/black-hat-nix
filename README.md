@@ -21,7 +21,7 @@ curl --proto '=https' --tlsv1.2 -sSf -L \
     | sh -s -- install --determinate
 ```
 ### How to Uninstall
-Accidentally put this on your work computer and pissed of IT? 
+Accidentally put this on your work computer and pissed off IT? 
 ```sh
 /nix/nix-installer uninstall
 ```
