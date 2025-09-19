@@ -14,6 +14,9 @@ You can also uninstall it with:
 ```bash
 nix-env -e metasploit
 ```
+>Note: The best place for finding packages you can use is the official
+>[NixOS Package Search](https://search.nixos.org/packages).
+
 But there are better, cooler ways of getting the tools you want.
 
 Move on to *Lab 02* when you're ready.
