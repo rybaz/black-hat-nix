@@ -1,5 +1,5 @@
-# Lab 00: Package Installation
-It is entirely possible to use Nix (and nixpkgs, the package repository) as a 
+# Lab 0.0: Package Installation
+It is entIrely possible to use Nix (and nixpkgs, the package repository) as a 
 drop-in replacement for `apt`, `yum`, `pacman`, etc.
 
 But this is a primitive and hindered way of using Nix, as I hope you will
