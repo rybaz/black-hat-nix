@@ -1,4 +1,4 @@
-# Lab 04: Portable Hacking Shell
+# Lab 0.4: Portable Hacking Shell
 Sometimes you just need a file you can lug around that installs the tools you
 want or need. In this case, we can do the exact same thing we did in the 
 previous lab and:
