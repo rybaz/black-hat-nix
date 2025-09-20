@@ -3,7 +3,7 @@
 pkgs.mkShell {
 
   packages = [ 
-    pkgs.python313
+    pkgs.python312
 	];
 
   shellHook = ''
