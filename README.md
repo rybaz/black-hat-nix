@@ -1,4 +1,7 @@
-![logo](./src/logo-lol.png)
+<p align="center">
+  <img src="./src/logo-lol.png" alt="Black Hat Nix logo">
+</p>
+
 # Black Hat Nix
 This is the companion repository for my talk, "Solving Dumb Hacker Problems with
 Nix".
