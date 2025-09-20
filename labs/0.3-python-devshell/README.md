@@ -1,4 +1,4 @@
-# Lab 0.2: A Simple Python Devshell
+# Lab 0.3: A Simple Python Devshell
 Python is one of my favorite languages to write and one of my most hated to 
 actually use. I only have worse nightmares about using someone else's code when
 it's Perl.

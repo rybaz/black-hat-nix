@@ -1,4 +1,4 @@
-# Lab 0.1: Nix Shells
+# Lab 0.2: Nix Shells
 With Nix, we don't have to install a package just to try it out.
 
 If we want to try out the very fun program known as `cowsay` without adding

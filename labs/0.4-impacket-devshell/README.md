@@ -1,4 +1,4 @@
-# Lab 0.3: Devshells feat. Impacket
+# Lab 0.4: Devshells feat. Impacket
 In this exercise, if you've ever used Impacket you will find the folder structure
 quite familiar. However, I have added two files to make Impacket "Nix-ish", and 
 I will cover them each separately:
